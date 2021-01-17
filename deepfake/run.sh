@@ -3,6 +3,8 @@ git clone https://github.com/AliaksandrSiarohin/first-order-model.git
 cp *.tar ./first-order-model
 cp source.png ./first-order-model/source.png
 cp output.mp4 ./first-order-model/output.mp4
+rm ./first-order-model/Dockerfile
+cp Dockerfile ./first-order-model/Dockerfile
 
 cd first-order-model
 
