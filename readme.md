@@ -1,3 +1,5 @@
+Download paper here: https://github.com/jordy063/Deepfake/raw/master/DAE_paper_Hellebaut_Jordy.pdf
+
 # Tutorial
 
 clone the project
