@@ -13,5 +13,5 @@ start it by running
 cd Deepfake
 bash pipeline.sh "Text you want the painting to say."
 ```
-You can find the results in results.mp4
+You can find the results in final.mp4
 
