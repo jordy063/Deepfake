@@ -1,9 +1,12 @@
+Download paper here: https://github.com/jordy063/Deepfake/raw/master/DAE_paper_Hellebaut_Jordy.pdf
+
 # Tutorial
 
 clone the project
 
-Download all files from https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH and put into deepfake folder
-Download all files from https://drive.google.com/drive/folders/1QDRCWmqr87E3LWmYztqE7cpBZ3fALo-x and put into obamanet folder
+Download all files from https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH and put into deepfake folder.
+
+Download all files from https://drive.google.com/drive/folders/1QDRCWmqr87E3LWmYztqE7cpBZ3fALo-x and put into obamanet folder.
 
 start it by running 
 ```
