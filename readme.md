@@ -1,4 +1,4 @@
-Download paper here: https://github.com/jordy063/Deepfake/raw/master/DAE_paper_template_Jordy GW.pdf
+Download paper here: https://github.com/jordy063/Deepfake/raw/master/DAE_paper_template_Jordy_GW.pdf
 
 # Tutorial
 
